@@ -152,13 +152,13 @@ This supports outlier detection and helps define a cleaner set of stocks for fut
 
 ### 1. Historical Stock Price Comparison
 
-![Historical Stock Price Comparison](Screenshot%202026-04-09%20at%2010.38.05%E2%80%AFpm(1).png)
+![Historical Stock Price Comparison](Historical_Stock_Price_Comparison.png)
 
 This chart compares the historical adjusted stock prices of **WEC** and **LNT** over time. Both stocks show a long-term upward trend, but **WEC** grows more strongly and reaches a higher final price level. The visual helps compare long-run stock performance and shows how two relatively similar assets can still differ in growth path and magnitude.
 
 ### 2. WEC Daily Price Ratio Distribution
 
-![WEC Daily Price Ratio Distribution](Screenshot%202026-04-09%20at%2010.38.21%E2%80%AFpm(1).png)
+![WEC Daily Price Ratio Distribution](WEC_Daily_Price_Ratio_Distribution.png)
 
 This histogram shows the distribution of daily price ratios for **WEC**. Most daily movements are tightly concentrated around **1.0**, which means that on most trading days the stock changes only by a small percentage. The narrow and centered shape is useful for understanding volatility and daily return stability.
 
